@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: anand_gate
 Upstream-Contact: DS <>
-Source: 
+Source: https://codeberg.org/Desour/anand_gate
 
 # Sample paragraph, commented out:
 #
