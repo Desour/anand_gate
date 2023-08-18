@@ -1,3 +1,6 @@
+-- SPDX-FileCopyrightText: 2023 DS
+--
+-- SPDX-License-Identifier: Apache-2.0
 
 local nodebox = {
 	type = "fixed",
